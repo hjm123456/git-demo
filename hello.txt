@@ -6,5 +6,6 @@ hello hjmedu! hello git!
 hello hjmedu! hello git!
 hello hjmedu! hello git!
 hello hjmedu! hello git!  master test
+hello hjmedu! hello git! hot-fix test
 hello hjmedu! hello git!
 version hot fix
